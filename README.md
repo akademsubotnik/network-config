@@ -8,4 +8,4 @@ In OpenWRT you need to create firewalls to seperate VLANS
 
 This is a simplification of how those should work:
 
-![image](https://github.com/user-attachments/assets/7719a0b9-6562-4436-9db3-7ac69693ada9)
+![image](https://github.com/user-attachments/assets/35dff2c1-b406-49f6-8066-59b4827261e2)
